@@ -1,0 +1,21 @@
+package in.thiru.operators;
+
+public class No07Operators {
+
+	public static void main(String[] args) {
+
+		int a = 10;
+		
+		//increment pre and post increment
+		// 2)Post-Decrement(a--)-> Decreasing by 1 in the next line
+		
+		System.out.println(a--);  //10-1=9
+		
+		
+		
+
+		
+
+	}
+
+}

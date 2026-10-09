@@ -1,0 +1,28 @@
+package in.thiru.loops;
+
+public class Example03 {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		//10,9,8,7,6,5,4,3,2,1
+		
+		int start = 10;
+		int end = 1;
+		
+		while(start <=end)  //1 <= 10, 2 <= 10,3 <= 10....... 10<=10  11 <=10
+		{
+			System.out.println("Welcome to India : "+start);
+			
+			start=start+1;
+		}
+		
+	
+		
+		
+		
+		
+	}
+
+}

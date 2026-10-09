@@ -1,0 +1,25 @@
+package in.thiru.operators;
+
+public class No10Operators {
+
+	public static void main(String[] args) {
+
+		
+		System.out.println(!false);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+	}
+
+}

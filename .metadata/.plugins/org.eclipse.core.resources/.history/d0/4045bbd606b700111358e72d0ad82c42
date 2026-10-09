@@ -1,0 +1,10 @@
+package in.thiru.variables;
+
+public class No01Variables {
+	
+	public static void main(String[] args)
+	{
+		int empId = "v";
+	}
+
+}

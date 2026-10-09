@@ -1,0 +1,11 @@
+package in.thiru.conditionalstatements;
+
+public class Example03 {
+
+	public static void main(String[] args) {
+
+		int marks=98;
+
+	}
+
+}

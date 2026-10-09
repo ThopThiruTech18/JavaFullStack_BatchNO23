@@ -1,0 +1,22 @@
+package in.thiru.loops;
+
+public class Example08 {
+
+	public static void main(String[] args) {
+
+		
+		
+		
+
+		while (start <= end) {
+			
+			
+
+			start = start + 1;
+
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package in.thiru.loops;
+
+public class Example07 {
+
+	public static void main(String[] args) {
+
+
+		
+		int start=1;
+		int end=10;
+		
+		for (int i = 1; i <= 10; i++) {
+			
+		}
+		
+		while () {
+			
+			
+		}
+		
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package in.thiru.operators;
+
+public class No04Operators {
+
+	public static void main(String[] args) {
+
+		int a = 10;
+
+		
+
+	}
+
+}

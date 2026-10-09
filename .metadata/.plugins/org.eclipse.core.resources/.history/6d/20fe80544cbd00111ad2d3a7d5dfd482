@@ -1,0 +1,27 @@
+package in.thiru.operators;
+
+public class No05Operators {
+
+	public static void main(String[] args) {
+
+		int a = 10;
+		
+		//increment pre and post increment
+		//(a++)-> Increasing by 1 in the next line
+		
+		System.out.println(a++); 
+		System.out.println(a++); //10+1=11
+		System.out.println(a++); //11+1=12
+		System.out.println(a++); //12+1=13
+		System.out.println(a++); //13+1=14
+		System.out.println(a++); //14+1=15
+		System.out.println(a++); //15+1=16
+		System.out.println(a++); //16+1=17
+		System.out.println(a);//17+1=18
+		
+
+		
+
+	}
+
+}

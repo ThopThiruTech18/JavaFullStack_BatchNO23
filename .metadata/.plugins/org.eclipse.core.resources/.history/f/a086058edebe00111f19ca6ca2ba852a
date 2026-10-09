@@ -1,0 +1,18 @@
+package in.thiru.loops;
+
+public class Example05 {
+	
+	public static void main(String[] args) {
+		
+		
+		
+//		Increasing order
+//		1 to 20
+//		11 to 111
+//		99 to 999
+//		3 to 333
+		
+		
+	}
+
+}

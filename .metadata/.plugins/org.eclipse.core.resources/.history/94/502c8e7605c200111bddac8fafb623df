@@ -1,0 +1,15 @@
+package in.thiru.conditionalstatements;
+
+public class Example01 {
+
+	public static void main(String[] args) {
+
+		int age = 17;
+
+		if (age >= 18) {
+			System.out.println("The person is eligible for the voting");
+		}
+
+	}
+
+}

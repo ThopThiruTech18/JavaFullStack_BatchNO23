@@ -1,0 +1,28 @@
+package in.thiru.patterns;
+
+public class Example15 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("started pattern");
+
+		
+		for (char i = 'a'; i <='e'; i++) {
+			
+			
+			for (char j = 'a'; j <=i; j++) {
+				
+				System.out.print(j);
+				
+			}
+			
+			System.out.println();
+			
+		}
+
+		
+		
+		System.out.println("ended the pattern");
+	}
+
+}

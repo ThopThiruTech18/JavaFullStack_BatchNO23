@@ -1,0 +1,23 @@
+package in.thiru.operators;
+
+public class No04Operators {
+
+	public static void main(String[] args) {
+
+		int a = 10;
+		
+		//increment pre and post increment
+		//(++a) -> Increasing by 1 in the same line
+		
+		System.out.println(++a); //10+1=11
+		System.out.println(++a);  //11+1=12
+		System.out.println(++a); //12+1=13
+		System.out.println(++a);
+		System.out.println(++a);
+		
+
+		
+
+	}
+
+}

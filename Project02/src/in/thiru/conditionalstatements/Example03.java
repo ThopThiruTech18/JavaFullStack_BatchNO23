@@ -1,0 +1,33 @@
+package in.thiru.conditionalstatements;
+
+public class Example03 {
+
+	public static void main(String[] args) {
+
+		int marks = 35;
+
+		if (marks >= 90 && marks <= 100) {
+			System.out.println("A-GRADE");
+		} else if (marks >= 80 && marks <= 89) {
+			System.out.println("B-GRADE");
+		} else if (marks >= 70 && marks <= 79) {
+			System.out.println("C-GRADE");
+		} else if (marks >= 60 && marks <= 69) {
+			System.out.println("D-GRADE");
+		}
+
+		else if (marks >= 50 && marks <= 59) {
+			System.out.println("E-GRADE");
+		}
+
+		else if (marks >= 40 && marks <= 49) {
+			System.out.println("F-GRADE");
+		} else if (marks >= 30 && marks <= 39) {
+			System.out.println("G-GRADE");
+		} else if (marks < 30) {
+			System.out.println("FAIL(BETTER LUCK NEXTIME)");
+		}
+
+	}
+
+}
